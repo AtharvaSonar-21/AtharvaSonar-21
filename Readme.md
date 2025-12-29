@@ -70,7 +70,9 @@
 
 ## 🏆 LeetCode Badge
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Atharva_Sonar" alt="LeetCode Badge" />
+  <a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Atharva_Sonar&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=LeetCode%20Stats&hide_border=false&animate=true" alt="LeetCode Badge" />
+  </a>
 </p>
 
 ---
