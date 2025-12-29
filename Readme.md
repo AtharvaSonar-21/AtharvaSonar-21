@@ -68,26 +68,23 @@
 
 ---
 
-<h2 align="center">
-🏆 LeetCode Badges</h2>
+<h2 align="center">🏆 LeetCode Badges</h2>
 <p align="center">
-  <a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="120" alt="LeetCode Feb 2024"/>
-  </a>
-  <a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="120" alt="LeetCode Mar 2024"/>
-  </a>
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?username=Atharva_Sonar&animated=true&theme=dark" 
+    alt="LeetCode Badges" 
+  />
 </p>
 
 
 ---
 
-<h2 align="center">⚡ GitHub Stats </h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <div align="center">
   <!-- GitHub Streak -->
-  <img width="320" src="https://streak-stats.demolab.com/?user=atharvasonar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <!-- GitHub Stats -->
+  <img width="320" src="https://streak-stats.demolab.com/?user=atharvasonar&count_private=true&theme=react&border_radius=10" alt="GitHub streak"/>
+  <!-- GitHub Main Stats -->
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=atharvasonar&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
   <!-- Top Languages -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasonar&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasonar&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </div>
