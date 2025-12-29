@@ -78,13 +78,3 @@
 
 
 ---
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<div align="center">
-  <!-- GitHub Streak -->
-  <img width="320" src="https://streak-stats.demolab.com/?user=atharvasonar&count_private=true&theme=react&border_radius=10" alt="GitHub streak"/>
-  <!-- GitHub Main Stats -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=atharvasonar&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
-  <!-- Top Languages -->
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasonar&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-</div>
