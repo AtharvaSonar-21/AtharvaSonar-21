@@ -68,24 +68,26 @@
 
 ---
 
-## 🏆 LeetCode Badge
+<h2 align="center">
+🏆 LeetCode Badges</h2>
 <p align="center">
   <a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Atharva_Sonar&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&custom_title=LeetCode%20Stats&hide_border=false&animate=true" alt="LeetCode Badge" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="120" alt="LeetCode Feb 2024"/>
+  </a>
+  <a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" width="120" alt="LeetCode Mar 2024"/>
   </a>
 </p>
 
+
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvasonar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvasonar&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvasonar&theme=tokyonight" />
-</p>
+<h2 align="center">⚡ GitHub Stats </h2>
+<div align="center">
+  <!-- GitHub Streak -->
+  <img width="320" src="https://streak-stats.demolab.com/?user=atharvasonar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- GitHub Stats -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=atharvasonar&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
+  <!-- Top Languages -->
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvasonar&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+</div>
