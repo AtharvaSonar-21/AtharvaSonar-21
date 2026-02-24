@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Currently Learning
-- **Full-Stack Web Development (MERN) & DSA**
+- **Full-Stack Web Development & DSA**
 - **Machine Learning**
 
 ### 👨‍💻 Projects
