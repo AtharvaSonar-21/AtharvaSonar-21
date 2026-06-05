@@ -20,7 +20,7 @@
 - All of my projects are available on **GitHub**
 
 ### 💬 Ask Me About
-- **MERN Stack & Machine Learning Basics**
+- **MERN Stack & Machine Learning**
 
 ### 📫 Contact
 - **atharvasonar654@gmail.com**
