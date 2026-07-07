@@ -1,92 +1,222 @@
 <h1 align="center">Hi 👋, I'm Atharva Sonar</h1>
-<h3 align="center">Turning Ideas into Code</h3>
+
+<h3 align="center">
+Software Engineer • Full-Stack Developer • Cloud & AI Enthusiast </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvasonar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvasonar" />
+Building scalable software, cloud-native applications, and AI-powered solutions.
 </p>
 
-<!-- Optional Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="180" style="border-radius: 50%" />
+<img src="https://komarev.com/ghpvc/?username=AtharvaSonar-21&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- Full-Stack Web Development
-- Machine Learning & Deep Learning
+# 👨‍💻 About Me
 
-### 👨‍💻 Projects
-- All of my projects are available on **GitHub**
+I'm an **Information Technology undergraduate** passionate about building software that solves real-world problems.
 
-### 💬 Ask Me About
-- MERN Stack
-- Machine Learning
+My primary interest lies in **Software Engineering**, where I enjoy designing scalable backend systems, REST APIs, and full-stack web applications. Alongside that, I'm expanding my expertise in **Cloud Computing**, **System Design**, and **Artificial Intelligence** to understand how modern applications are built and deployed at scale.
 
-### 📫 Contact
-- **atharvasonar654@gmail.com**
+I believe the best way to learn is by **building real projects**, experimenting with new technologies, and continuously improving through hands-on development.
 
-### ⚡ Fun Fact
-- *I break things just to understand how they work*
+Currently, I'm preparing for **Software Engineer**, **Backend Engineer**, **Cloud Engineer**, and **Full-Stack Developer** roles.
 
 ---
 
-## 🌐 Connect With Me
+### 📚 Currently Exploring
+
+- AWS Cloud
+- Docker
+- Kubernetes
+- CI/CD
+- Distributed Systems
+- Cloud Architecture
+
+---
+
+# 🌱 Current Focus
+
+- Backend Development
+- Cloud Computing
+- AI Integration
+- ML Fundamentals
+- REST API Design
+- Database Design
+- System Design
+- Docker & Containerization
+- Scalable Application Development
+
+---
+
+# 🛠 Technical Skills
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Also Experienced With**
+
+- REST APIs
+- JWT Authentication
+- Google OAuth
+- API Integration
+
+---
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,postman" />
+</p>
+
+Currently strengthening my understanding of cloud architecture, deployment workflows, and containerization.
+
+---
+
+## 🤖 AI / Machine Learning
+
 <p align="left">
-<a href="https://x.com/Atharva76678467" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/atharva-sonar/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-</a>
-<a href="https://leetcode.com/u/Atharva_Sonar/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-</a>
-<a href="https://www.hackerrank.com/profile/atharvasonar654" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
-</a>
-<a href="https://discordapp.com/users/atharva_sonar/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" />
-</a>
-</p>
 
----
+<!-- TensorFlow -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
 
-## 🛠 Languages & Tools
-<!-- Machine Learning -->
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+<!-- PyTorch -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch"/>
 
-<!-- Web Development -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<!-- Scikit-Learn -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-Learn"/>
+
+<!-- NumPy -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
+
+<!-- Pandas -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
+
+<!-- Jupyter -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
 
 </p>
 
 ---
 
-<h2 align="center">🏆 LeetCode Badges</h2>
+# 🎯 Areas of Interest
+
+- Software Engineering
+- Backend Development
+- Cloud Computing
+- Full-Stack Development
+- Artificial Intelligence
+- System Design
+- Developer Tools
+- Cloud Cost Optimization
+
+---
+
+# 🤝 Looking to Collaborate On
+
+- Open Source Projects
+- Full-Stack Applications
+- Backend Systems
+- Cloud Engineering Projects
+- AI-powered Applications
+- Developer Tools
+
+---
+
+# 📈 GitHub Stats
+
 <p align="center">
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=Atharva_Sonar&animated=true&theme=dark" 
-    alt="LeetCode Badges" 
-  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtharvaSonar-21&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaSonar-21&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AtharvaSonar-21&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Atharva_Sonar&animated=true&theme=dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/AtharvaSonar-21">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/atharva-sonar/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/Atharva_Sonar/">
+<img src="https://cdn.simpleicons.org/leetcode" width="45"/>
+</a>
+
+<a href="https://x.com/Atharva76678467">
+<img src="https://cdn.simpleicons.org/x" width="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/atharvasonar654">
+<img src="https://cdn.simpleicons.org/hackerrank" width="45"/>
+</a>
+
+</p>
+
+📧 **Email:** **atharvasonar654@gmail.com**
+
+---
+<p align="center">
+---
+## ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."*
+
+</p>
