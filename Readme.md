@@ -4,7 +4,7 @@
 Software Engineer • Full-Stack Developer • Cloud & AI Enthusiast </h3>
 
 <p align="center">
-Building scalable software, cloud-native applications, and AI-powered solutions.
+Building reliable software, cloud-native applications, and AI-powered solutions.
 </p>
 
 <p align="center">
