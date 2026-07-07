@@ -205,7 +205,5 @@ Currently strengthening my understanding of cloud architecture, deployment workf
 ---
 
 ## ⭐ Thanks for visiting my profile!
-
 *"Always learning. Always building. Always improving."*
-
 </p>
