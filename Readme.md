@@ -75,12 +75,6 @@ Currently, I'm preparing for **Software Engineer**, **Backend Engineer**, **Clou
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Also Experienced With**
-
-- REST APIs
-- JWT Authentication
-- Google OAuth
-- API Integration
 
 ---
 
@@ -97,8 +91,6 @@ Currently, I'm preparing for **Software Engineer**, **Backend Engineer**, **Clou
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,postman" />
 </p>
-
-Currently strengthening my understanding of cloud architecture, deployment workflows, and containerization.
 
 ---
 
@@ -136,8 +128,6 @@ Currently strengthening my understanding of cloud architecture, deployment workf
 - Full-Stack Development
 - Artificial Intelligence
 - System Design
-- Developer Tools
-- Cloud Cost Optimization
 
 ---
 
@@ -148,7 +138,6 @@ Currently strengthening my understanding of cloud architecture, deployment workf
 - Backend Systems
 - Cloud Engineering Projects
 - AI-powered Applications
-- Developer Tools
 
 ---
 
@@ -202,7 +191,6 @@ Currently strengthening my understanding of cloud architecture, deployment workf
 
 ---
 <p align="center">
----
 
 ## ⭐ Thanks for visiting my profile!
 *"Always learning. Always building. Always improving."*
